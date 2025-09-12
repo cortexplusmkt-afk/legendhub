@@ -1,0 +1,12 @@
+# Ignorar TODAS as pastas de dependências
+**/node_modules/
+
+# Ignorar arquivos de segredos
+backend/.env
+
+# Ignorar arquivos de sessão do WhatsApp
+backend/.wwebjs_auth/
+
+# Ignorar logs do PM2
+/root/.pm2/logs/
+*.log
