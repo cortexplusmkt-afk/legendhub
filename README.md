@@ -57,3 +57,24 @@ legendhub/
         ├── components/
         ├── api.js
         └── App.jsx
+Executando localmente
+Backend
+cd backend
+npm install
+npm run dev
+
+Configure previamente as variáveis de ambiente necessárias para conexão com o banco e autenticação.
+
+Frontend
+cd frontend
+npm install
+npm run dev
+Sobre o projeto
+
+O LegendHub foi desenvolvido para resolver uma necessidade operacional real, substituindo processos distribuídos entre planilhas, mensagens e controles manuais por uma aplicação centralizada.
+
+O projeto também explora comunicação em tempo real, integração com serviços externos e arquitetura separada entre frontend e backend.
+
+Projeto publicado para demonstração técnica e portfólio.
+
+Dados reais, credenciais e documentos privados não fazem parte da versão pública.
